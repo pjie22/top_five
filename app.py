@@ -1,6 +1,6 @@
 from flask import Flask, render_template, request, redirect
 
-app = Flask(__name__)
+app = Flask(__My Top Five App__)
 
 # Simple in-memory storage for submissions
 submissions = []
